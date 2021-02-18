@@ -1,3 +1,5 @@
 Just file created in feature-1
 
 another file was changed.
+
+file modified in feature-2 branch.
